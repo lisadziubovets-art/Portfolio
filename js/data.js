@@ -5,7 +5,7 @@ const SITE = {
   name: "Lisa's Portfolio",
   email: "mailto:lisa.dziubovets@sjsu.edu",
   instagram: "https://instagram.com/trashtht",
-  linkedin: "https://linkedin.com/in/yourprofile",
+  linkedin: "https://www.linkedin.com/in/yelyzaveta-dziubovets-003976343/",
   aboutPhoto: "images/about.webp",
   about:
     "Hi, I'm Lisa. I'm a new designer, and I'm just starting out. I love simple, clean design. My style is minimalism: only a few things, lots of space, and soft colours. I think simple design can be strong and beautiful. I'm still learning, and I try something new in every project. Right now I'm building my portfolio. I like branding, drawing, and making logos. I enjoy working with simple shapes, clean lines, and just a few colours. I want every piece to feel clear and easy to look at. My goal is to grow a little every day, learn from other designers, and slowly find my own voice. Soon I hope to work on real projects with real people. Thank you for visiting! You can write to me anytime."
